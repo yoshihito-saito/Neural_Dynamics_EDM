@@ -1,0 +1,3 @@
+*.pkl
+*.nwb
+.DS_Store
