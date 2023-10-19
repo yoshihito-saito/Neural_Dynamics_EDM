@@ -8,4 +8,4 @@
     pip install ipykernel
     conda install jupyter
     pip install scikit-learn
-    pip install pyEDM
+    pip install pyEDM==1.13.1.0
