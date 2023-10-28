@@ -1,3 +1,4 @@
 *.pkl
 *.nwb
 .DS_Store
+PyEDM_Workshop.ipynb
